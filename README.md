@@ -22,7 +22,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 Topics: Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/JavaFundamentals)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/1stsheet)
 
 
 
@@ -34,7 +34,7 @@ Topics: Introduction to Java, role of JDK, JRE, and JVM, writing the first progr
 
 Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingELements)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingElement)
 
 
 
@@ -46,7 +46,7 @@ Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type
 
 Topics: Conditional statements (if, if-else, switch), and loops (for, while, do-while), along with nested control structures  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/ControlFlow)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/ControlFlow)
 
 
 
@@ -58,7 +58,7 @@ Topics: Conditional statements (if, if-else, switch), and loops (for, while, do-
 
 Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/Array)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/Array)
 
 
 
@@ -70,7 +70,7 @@ Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops
 
 Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingMethods)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingMethods)
 
 
 
@@ -82,7 +82,7 @@ Topics: Creating reusable methods, method overloading, returning values, and pas
 
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/Strings)
 
 
 
@@ -94,7 +94,7 @@ Topics: Understanding String class, string creation, comparing strings, common s
 
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/Built-InFunctions)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/Built-InFunctions)
 
 
 
@@ -106,7 +106,7 @@ Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Ar
 
 Topics: Mutable vs immutable strings, StringBuilder \& StringBuffer, performance comparison, string reversal and manipulation  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/StringHandling)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/Core-Java/Handling\_Strings)
 
 
 
@@ -122,7 +122,7 @@ Topics: Mutable vs immutable strings, StringBuilder \& StringBuffer, performance
 
 Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/JavaClassAndObject)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/JavaClassAndObject)
 
 
 
@@ -134,7 +134,7 @@ Topics: Defining classes, creating objects, class structure, encapsulating data,
 
 Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/JavaConstructorAndVariables)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/JavaConstructorAndVariables)
 
 
 
@@ -146,7 +146,7 @@ Topics: Constructor types (default, parameterized, overloaded), use of this keyw
 
 Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/StaticIntFinalKeywords)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/StaticIntFinalKeywords)
 
 
 
@@ -158,7 +158,7 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/ObjectModelingClassSequenceDiagram)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/ObjectModelingClassSequenceDiagram)
 
 
 
@@ -170,7 +170,7 @@ Topics: Object-oriented modeling, designing class diagrams using UML, understand
 
 Topics: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, \& Access Modifiers and Inheritance  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/ClassInheritance)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/ClassInheritance)
 
 
 
@@ -182,7 +182,7 @@ Topics: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarc
 
 Topics: - Encapsulation, Polymorphism, Interface, \& Abstract Classes  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/EncapsulationPolymorphism)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/OOPS/EncapsulationPolymorphism)
 
 
 
@@ -198,7 +198,7 @@ Topics: - Encapsulation, Polymorphism, Interface, \& Abstract Classes
 
 Topics: - Singly Linked list, Doubly Linked list, Circular Linked list implementations  
 
-🔗 \[Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
 
 
 
