@@ -178,7 +178,7 @@ Topics: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarc
 
 
 
-\### 📅 02/07/25 (Tue) – Day 5 – Encapsulation And Polymorphism 
+\### 📅 02/07/25 (Tue) – Day 6 – Encapsulation And Polymorphism 
 
 Topics: - Encapsulation, Polymorphism, Interface, \& Abstract Classes  
 
@@ -194,7 +194,7 @@ Topics: - Encapsulation, Polymorphism, Interface, \& Abstract Classes
 
 
 
-\### 📅 04/07/25 (Thu) – Day 5 – Linked Lists 
+\### 📅 04/07/25 (Thu) – Day 1 – Linked Lists 
 
 Topics: - Singly Linked list, Doubly Linked list, Circular Linked list implementations  
 
@@ -203,6 +203,19 @@ Topics: - Singly Linked list, Doubly Linked list, Circular Linked list implement
 
 
 ---
+
+
+
+\### 📅 08/07/25 (Mon) – Day 2 – Stack , Queue, HashMap and Hashing Function 
+
+Topics: - Stack , Queue, HashMap and Hashing Function 
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/DSA/StacksQueuesHashMapsHashFunctions)
+
+
+
+---
+
 
 
 
