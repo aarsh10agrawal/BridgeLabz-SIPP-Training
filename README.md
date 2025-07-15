@@ -218,6 +218,44 @@ Topics: - Stack , Queue, HashMap and Hashing Function
 
 
 
+\### 📅 09/07/25 (Tue) – Day 3 – Sorting Algorithms
+
+Topics: - Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/DSA/SortingTechniques)
+
+
+
+---
+
+
+
+\### 📅 11/07/25 (Thu) – Day 4 – Searching Algorithms 
+
+Topics: - Linear Search, Binary Search 
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/DSA/SearchingTechniques)
+
+
+
+---
+
+
+
+\### 📅 12/07/25 (Fri) – Day 5 – Algorithm's Runtime Analysis & Big-O Notation 
+
+Topics: - General Algorithm Best Practices, Time and Space Complexity Optimization 
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)
+
+
+
+---
+
+
+
+
+
 
 \## 📝 Note:
 
