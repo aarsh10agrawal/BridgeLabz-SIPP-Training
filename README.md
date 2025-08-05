@@ -254,8 +254,35 @@ Topics: - General Algorithm Best Practices, Time and Space Complexity Optimizati
 
 
 
+\## GenericsAndCollections Branch 🧱
 
 
+
+\### 📅 21/07/25 (mon) – Day 1 – Java Generics 
+
+Topics: - Type Parameters
+Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/javaGenerics)
+
+
+
+---
+
+
+
+\### 📅 23/07/25 (Wed) – Day 2 – Collections 
+
+Topics: - Collecions
+
+🔗 \[Code](https://github.com/aarsh10agrawal/BridgeLabz-SIPP-Training/tree/GenericsAndCollections/Collections)
+
+
+
+---
+
+
+ 
 
 \## 📝 Note:
 
